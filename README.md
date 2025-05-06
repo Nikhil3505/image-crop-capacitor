@@ -20,4 +20,5 @@ npx cap sync
 
 npx cap open android
 **## or ios**
+
 Uses react-easy-crop for image cropping.
